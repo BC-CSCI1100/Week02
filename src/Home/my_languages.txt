@@ -1,0 +1,14 @@
+JavaScript
+Prolog
+C#
+Java
+Lisp
+Ruby
+C
+F#
+C++
+Haskell
+Go
+Rust
+Python
+Ocaml
